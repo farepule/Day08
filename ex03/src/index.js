@@ -19,5 +19,5 @@ function1();
 function2();
 module.exports = {
     function1,
-    function2,
+    function2
 };
